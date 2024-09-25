@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tharikashree
-- 👀 I’m interested in AI,editing,creating and exploring new domains. 
+- 👀 I’m interested in AIML,editing,creating and exploring new domains. 
 - 🌱 I’m currently learning Web Development and Python programming
 - 💞️ I’m looking to collaborate on any ideas related to the above
 - 📫 Reach me through my instagram profile
