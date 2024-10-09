@@ -12,7 +12,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tharikashree&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 <br>
 <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree&layout=donut-vertical" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree&theme=tokyonight&layout=donut-vertical" alt="GitHub Streak" /></a>
 <br><br>
 Tools and Technologies:
 <br>
