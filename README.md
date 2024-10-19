@@ -14,7 +14,7 @@
 <br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree&theme=tokyonight&layout=donut-vertical" alt="GitHub Streak" /></a>
 <br><br>
-Tools and Technologies:
+Tools and Technologies 💻:
 <br>
 <br>
 <div align="center">
@@ -31,6 +31,7 @@ Tools and Technologies:
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
 </div>
+![](https://komarev.com/ghpvc/?username=tharikashree
 <!---
 tharikashree/tharikashree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
