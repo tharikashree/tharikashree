@@ -32,7 +32,7 @@ Tools and Technologies 💻:
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
 </div>
 Badges ⭐:
-<a hrref=https://holopin.me/tharikashree">
+<a href=https://holopin.me/tharikashree">
 <!---
 tharikashree/tharikashree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
