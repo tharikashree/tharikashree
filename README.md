@@ -32,7 +32,10 @@ Tools and Technologies 💻:
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
 </div>
 Badges ⭐:
-[![An image of @tharikashree's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharikashree)](https://holopin.io/@tharikashree)
+<a href="https://holopin.io/@tharikashree">
+  <img src="https://holopin.me/tharikashree" alt="An image of @tharikashree's Holopin badges, which is a link to view their full Holopin profile">
+</a>
+
 <!---
 tharikashree/tharikashree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
