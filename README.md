@@ -9,7 +9,7 @@
 <b>Reach me through</b>
 <hr>
 <a href="https://in.linkedin.com/in/tharika-shree-r-9a6912253" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /></a>
-<a href="tharikadsce@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" /></a>
+<a href="mailto:tharikadsce@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" /></a>
 <a href="https://www.instagram.com/_.tharika_.04/profilecard/?igsh=MWIxcWdhY3cwOWExdA==" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="20" /></a>
  <br>
  <br>
