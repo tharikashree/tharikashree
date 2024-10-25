@@ -12,7 +12,7 @@
  ---
 <a href="https://in.linkedin.com/in/tharika-shree-r-9a6912253" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /></a>
 <a href="mailto:tharikadsce@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" /></a>
-<a href="https://www.instagram.com/_.tharika_.04/profilecard/?igsh=MWIxcWdhY3cwOWExdA==" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="20" /></a>
+<a href="https://www.instagram.com/_.tharika_.04/profilecard/?igsh=MWIxcWdhY3cwOWExdA==" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="20" /></a><br>
 
 <b>Tools and Technologies 💻</b>
 ---
@@ -29,18 +29,14 @@
 	<code><img width="60" height="20" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" title="C"/></code>
 	<code><img width="60" height="20" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++"/></code>
 	<code><img width="60" height="20" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" title="Python"/></code>
-</div>
+</div><br>
 
 <b>Git Stats 📊</b>
 ---
+[![Tharika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tharikashree&theme=tokyo-night&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7)](https://github.com/tharikashree/github-readme-activity-graph)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tharikashree&theme=tokyonight" alt="GitHub Streak" /></a>
-![tharikashree's Stats](https://github-readme-stats.vercel.app/api?username=tharikashree&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage)
-<br>
-<br>
+![tharikashree's Stats](https://github-readme-stats.vercel.app/api?username=tharikashree&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide_progress=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree&theme=tokyonight&layout=donut" alt="GitHub Streak" /></a>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tharikashree&theme=tokyo-night&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7)](https://github.com/tharikashree/github-readme-activity-graph)
-
-
 
 
 <b>Badges ⭐</b>
