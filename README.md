@@ -1,3 +1,5 @@
+<b>About Me 💫</b>
+---
 - 👋 Hi, I’m @tharikashree
 - 👀 I’m interested in AIML,editing,creating and exploring new domains. 
 - 🌱 I’m currently learning Web Development and Python programming
@@ -7,25 +9,20 @@
 - ⚡ Fun fact: Im a Newbie HeHe
 
 <b>Reach me through</b>
-<hr>
+ ---
 <a href="https://in.linkedin.com/in/tharika-shree-r-9a6912253" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /></a>
 <a href="mailto:tharikadsce@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" /></a>
 <a href="https://www.instagram.com/_.tharika_.04/profilecard/?igsh=MWIxcWdhY3cwOWExdA==" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="20" /></a>
- <br>
- <br>
- <b>Git Stats 📊</b>
- <br>
- <hr>
- <br>
+
+<b>Git Stats 📊</b>
+---
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tharikashree&theme=tokyonight" alt="GitHub Streak" /></a>
 <br>
 <br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree&theme=tokyonight&layout=donut" alt="GitHub Streak" /></a>
-<br><br>
+
 <b>Tools and Technologies 💻</b>
-<br>
-<hr/>
-<br>
+---
 <div align="center">
 	<code><img width="60" height="20" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TAILWINDCSS" title="TAILWINDCSS"/></code>
 	<code><img width="60" height="20" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML"/></code>
@@ -40,21 +37,17 @@
 	<code><img width="60" height="20" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++"/></code>
 	<code><img width="60" height="20" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" title="Python"/></code>
 </div>
-<br>
+
 <b>Badges ⭐</b>
-<br>
-<hr>
-<br>
+---
 <a href="https://holopin.io/@tharikashree">
   <img src="https://holopin.me/tharikashree" alt="An image of @tharikashree's Holopin badges, which is a link to view their full Holopin profile">
 </a>
-<br>
-<br>
+
 <b>GitHub Trophies 🏆</b>
-<br>
-<hr>
+---
 <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=tharikashree" alt="GitHub Profile Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tharikashree&theme=tokyonight" alt="GitHub Profile Trophy">
 </div>
 
 <!---
