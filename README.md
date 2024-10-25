@@ -6,35 +6,56 @@
 - 😄 she/her
 - ⚡ Fun fact: Im a Newbie HeHe
 
-- Reach me through: 
- <a href="https://in.linkedin.com/in/tharika-shree-r-9a6912253" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" height="50" /></a>
+<b>Reach me through</b>
+<hr>
+<a href="https://in.linkedin.com/in/tharika-shree-r-9a6912253" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /></a>
+<a href="tharikadsce@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" /></a>
+<a href="https://www.instagram.com/_.tharika_.04/profilecard/?igsh=MWIxcWdhY3cwOWExdA==" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="20" /></a>
  <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tharikashree&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+ <br>
+ <b>Git Stats 📊</b>
+ <br>
+ <hr>
+ <br>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tharikashree&theme=tokyonight" alt="GitHub Streak" /></a>
 <br>
 <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree&theme=tokyonight&layout=donut-vertical" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree&theme=tokyonight&layout=donut" alt="GitHub Streak" /></a>
 <br><br>
-Tools and Technologies 💻:
+<b>Tools and Technologies 💻</b>
 <br>
+<hr/>
 <br>
 <div align="center">
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
+	<code><img width="60" height="20" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TAILWINDCSS" title="TAILWINDCSS"/></code>
+	<code><img width="60" height="20" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML"/></code>
+	<code><img width="60" height="20" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" title="CSS"/></code>
+	<code><img width="60" height="20" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="60" height="20" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" title="React"/></code>
+	<code><img width="60" height="20" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" title="Node.js"/></code>
+	<code><img width="60" height="20" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" title="Express.js"/></code>
+	<code><img width="60" height="20" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL"/></code>
+	<code><img width="60" height="20" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java"/></code>
+	<code><img width="60" height="20" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" title="C"/></code>
+	<code><img width="60" height="20" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++"/></code>
+	<code><img width="60" height="20" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" title="Python"/></code>
 </div>
-Badges ⭐:
+<br>
+<b>Badges ⭐</b>
+<br>
+<hr>
+<br>
 <a href="https://holopin.io/@tharikashree">
   <img src="https://holopin.me/tharikashree" alt="An image of @tharikashree's Holopin badges, which is a link to view their full Holopin profile">
 </a>
+<br>
+<br>
+<b>GitHub Trophies 🏆</b>
+<br>
+<hr>
+<div>
+    <img src="https://github-profile-trophy.vercel.app/?username=tharikashree" alt="GitHub Profile Trophy">
+</div>
 
 <!---
 tharikashree/tharikashree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
