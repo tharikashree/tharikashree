@@ -36,7 +36,7 @@
 
 <b>Git Stats 📊</b>
 ---
-[![Tharika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tharikashree&theme=tokyo-night&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7)](https://github.com/tharikashree/github-readme-activity-graph)
+[![Tharika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tharikashree&theme=tokyo-night&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7&hide_border=true)](https://github.com/tharikashree/github-readme-activity-graph)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tharikashree&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 ![tharikashree's Stats](https://github-readme-stats.vercel.app/api?username=tharikashree&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide_progress=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree&theme=tokyonight&layout=donut&hide_border=true" alt="GitHub Streak" /></a>
