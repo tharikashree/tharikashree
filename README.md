@@ -49,18 +49,9 @@
   <img src="https://holopin.me/tharikashree" alt="An image of @tharikashree's Holopin badges, which is a link to view their full Holopin profile">
 </a>
 
-### Postman API Fundamentals Student Expert
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif;">
-    <a href="https://api.badgr.io/public/assertions/phynbQKbRLW6_seomjI3fQ">
-        <img width="120px" height="120px" src="https://media.badgr.com/uploads/badges/assertion-phynbQKbRLW6_seomjI3fQ.png?versionId=OlQLH3Wl_N4aGac3pFTndwbEMOtO.A6W" alt="Postman API Fundamentals Student Expert">
-    </a>
-    <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; line-height: 1.25; text-align: left; color: #05012c;">
-        Postman API Fundamentals Student Expert
-    </p>
-    <p class="badgr-badge-date" style="margin: 0; font-size: 12px; line-height: 1.67; text-align: left; color: #555555;">
-        <strong style="font-weight: bold; color: #000;">Awarded: </strong>Nov 1, 2024
-    </p>
-</blockquote>
+### GSSoC24-Extd Badges
+![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/tharikashree?year=2024Extd)
+
 
 # GitHub Trophies 🏆
 
