@@ -1,3 +1,5 @@
+![Header](https://github.com/user-attachments/assets/af4a6eeb-51f2-4915-95b9-c2d0693619a0)
+
 # About Me 💫
 
 - 👋 Hi, I’m @tharikashree
