@@ -11,7 +11,7 @@
 - 😄 she/her
 - ⚡ Fun fact: Im a Newbie HeHe
 
-[Portfolio 🔗](https://portfolio-pink-five-70.vercel.app/)
+View my Portfolio : [Portfolio🔗](https://portfolio-pink-five-70.vercel.app/)
 
 # Socials 🌍
  
