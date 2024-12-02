@@ -3,12 +3,15 @@
 # About Me 💫
 
 - 👋 Hi, I’m @tharikashree
-- 👀 I’m interested in AIML,editing,creating and exploring new domains. 
-- 🌱 I’m currently learning Web Development and AIML
+- 👻 I'm a Full Stack Developer and Open Source Contributor.
+- 👀 I’m interested in AIML, editing, content creation and exploring new domains. 
+- 🌱 I’m currently learning DSA and AIML
 - 💞️ I’m looking to collaborate on any ideas related to the above
 - 📫 Reach me through my socials below
 - 😄 she/her
 - ⚡ Fun fact: Im a Newbie HeHe
+
+[Portfolio 🔗](https://portfolio-pink-five-70.vercel.app/)
 
 # Socials 🌍
  
