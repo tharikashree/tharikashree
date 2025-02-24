@@ -55,7 +55,7 @@ View my Portfolio : [Portfolio🔗](https://portfolio-pink-five-70.vercel.app/)
 </a>
 
 ### GSSoC24-Extd Badges
-![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/tharikashree?year=2024Extd)
+![GSSoC-Badges](https://camo.githubusercontent.com/e936f0c7769e3c5dc70f775b790489f801ee1021680ac3adce50bd0c30309385/68747470733a2f2f6773736f632d64796d616e69632d6261646765732e76657263656c2e6170702f6170692f74686172696b6173687265653f796561723d3230323445787464)
 
 
 # GitHub Trophies 🏆
