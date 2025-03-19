@@ -3,7 +3,7 @@
 # About Me 💫
 
 - 👋 Hi, I’m @tharikashree
-- 👻 I'm a Full Stack Developer and Open Source Contributor.
+- 👻 I'm a Python Developer, Full Stack Developer and Open Source Contributor.
 - 👀 I’m interested in AIML, editing, content creation and exploring new domains. 
 - 🌱 I’m currently learning DSA and AIML
 - 💞️ I’m looking to collaborate on any ideas related to the above
