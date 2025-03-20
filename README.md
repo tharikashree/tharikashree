@@ -11,13 +11,17 @@
 - 😄 she/her
 - ⚡ Fun fact: Im a Newbie HeHe
 
-View my Portfolio : [Portfolio](https://tharika-shree-r-portfolio.vercel.app/) 🔗
+View my Portfolio : [Portfolio]() 🔗
 
 # Socials 🌍
- 
-<a href="https://in.linkedin.com/in/tharika-shree-r" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /></a>
-<a href="mailto:tharikashreer88@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" /></a>
-<a href="https://www.instagram.com/tharika_shree_r/profilecard/?igsh=MWIxcWdhY3cwOWExdA==" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="20" /></a><br>
+
+ <div align="center">
+  <a href="https://in.linkedin.com/in/tharika-shree-r" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+<a href="https://tharika-shree-r-portfolio.vercel.app/"><img align="center" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/></a>
+<a href="mailto:tharikashreer88@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/tharika_shree_r/profilecard/?igsh=MWIxcWdhY3cwOWExdA==" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+ </div>
+<br>
 
 # Tools and Technologies 💻
 
