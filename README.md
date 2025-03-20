@@ -41,10 +41,33 @@ View my Portfolio : [Portfolio](https://tharika-shree-r-portfolio.vercel.app/) ğ
 
 # Git Stats ğŸ“Š
 
-[![Tharika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tharikashree&theme=tokyo-night&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7&hide_border=true)](https://github.com/tharikashree/github-readme-activity-graph)
-![Tharika Shree Streak](https://github-readme-streak-stats.herokuapp.com?user=tharikashree&theme=tokyonight&hide_border=true)
-![tharikashree's Stats](https://github-readme-stats.vercel.app/api?username=tharikashree&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide_progress=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree&theme=tokyonight&layout=donut&hide_border=true" alt="GitHub Streak" /></a>
+<table>
+ <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharikashree&theme=tokyo-night&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7&hide_border=true" alt="GitHub Activity Graph"/>
+     </td>
+   </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=tharikashree&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    </td>
+   <td>
+      <img 
+       src="https://github-readme-stats.vercel.app/api?username=tharikashree&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
+    </td>
+   </tr>
+</table>
+<table>
+ <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tharikashree&theme=tokyonight" alt="GitHub Summarry Card"/>
+ </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikashree&theme=tokyonight&layout=donut&hide_border=true" alt="Top Languages"/>
+    </td>
+  
+</table>
 
 # Badges â­
 
@@ -55,13 +78,13 @@ View my Portfolio : [Portfolio](https://tharika-shree-r-portfolio.vercel.app/) ğ
 </a>
 
 ### GSSoC24-Extd Badges
-![GSSoC-Badges](https://camo.githubusercontent.com/e936f0c7769e3c5dc70f775b790489f801ee1021680ac3adce50bd0c30309385/68747470733a2f2f6773736f632d64796d616e69632d6261646765732e76657263656c2e6170702f6170692f74686172696b6173687265653f796561723d3230323445787464)
+![Gssoc Badges](https://github.com/user-attachments/assets/59ffff9a-f49c-4754-b09b-65388b04e0c1)
 
 
 # GitHub Trophies ğŸ†
 
 <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=tharikashree&theme=tokyonight&hide_border=true" alt="GitHub Profile Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tharikashree&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6" alt="GitHub Profile Trophy">
 </div>
 
 <!---
