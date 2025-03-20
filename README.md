@@ -11,7 +11,6 @@
 - 😄 she/her
 - ⚡ Fun fact: Im a Newbie HeHe
 
-View my Portfolio : [Portfolio]() 🔗
 
 # Socials 🌍
 
