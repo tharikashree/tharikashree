@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/15ac3be3-40b8-4686-826d-e2e6788b3b1f)
+![github-header-image](https://github.com/user-attachments/assets/8125d93e-6ca1-4f22-844a-fe05b6403417)
 
 # About Me 💫
 
